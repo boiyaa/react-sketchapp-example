@@ -3,15 +3,13 @@
   "bundleVersion": 1,
   "commands": [
     {
-      "name": "react-sketchapp: Form Validation",
+      "name": "react-sketchapp: Example",
       "identifier": "main",
       "script": "./main.js"
     }
   ],
   "menu": {
     "isRoot": true,
-    "items": [
-      "main"
-    ]
+    "items": ["main"]
   }
 }
