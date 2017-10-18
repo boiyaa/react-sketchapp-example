@@ -1,4 +1,4 @@
-# Form Validation
+# React Sketch.app example
 
 ## How to use
 
