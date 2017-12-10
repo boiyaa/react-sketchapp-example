@@ -1,2 +1,3 @@
 *.sketchplugin
+dist
 node_modules
