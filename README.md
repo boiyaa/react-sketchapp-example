@@ -1,5 +1,7 @@
 # React Sketch.app example
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/boiyaa/react-sketchapp-example.svg)](https://greenkeeper.io/)
+
 ## How to use
 
 Install the dependencies
